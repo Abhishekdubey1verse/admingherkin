@@ -16,7 +16,7 @@ Feature:See the list of existing BAs along with their info
     FOS.
 
 
-    Scenario: changing the advispor village
+    Scenario: changing the advisor village
       Given:User is on  Basic info screen.
       When:user click on the change villae button
       Then:User should be able to see the popup ipened to change the Village by inserting() vilage id , Village name).
